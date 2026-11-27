@@ -1,6 +1,2 @@
-# Catalogue scraper (Python)
-Scrapes a product catalogue (title, price, rating, stock, URL) into CSV and Excel.
-Demo target is books.toscrape.com, a public practice site. Polite delay, deduplicated output.
-
-    pip install -r requirements.txt
-    python scrape_books.py --pages 50 --delay 0.2 --out books
+# Coffee shop landing page (sample design)
+One-page responsive website: hero, menu, about, contact form. Plain HTML and CSS, no framework. Demo design, not a real business.
